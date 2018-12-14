@@ -1,7 +1,7 @@
 # Literature-Survey-Spatio-Temporal-Visualization
 
 A literature survey on spatio-temporal visualization research field. 
-
+![alt text](
 ## Abstract
 
 With the exponential growth in the number of mobile devices and apps
