@@ -1,5 +1,6 @@
 # Literature-Survey-Spatio-Temporal-Visualization
 
+Literature survey on spatio-temporal visualization research field. 
 
 ## Abstract
 
