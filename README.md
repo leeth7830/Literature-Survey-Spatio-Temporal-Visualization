@@ -2,7 +2,7 @@
 
 A spatio-temporal visualization literature survey that examines spatio-temporal visualization techniques
 that use maps or similar visualizations to display traffic related spatio-temporal data. The paper explores the use of heatmap and 3D GIS to visualize spatio temporal data and explains how we can identify anomalies and patterns using the visualizations and machine learning techniques.
-[Literature Survey](literature_Survey_Final_Version.pdf)
+[Available Here](literature_Survey_Final_Version.pdf)
 ## Abstract
 
 With the exponential growth in the number of mobile devices and apps
