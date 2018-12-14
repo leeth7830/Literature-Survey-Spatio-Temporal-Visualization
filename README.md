@@ -1,6 +1,7 @@
 # Literature-Survey-Spatio-Temporal-Visualization
 
-A literature survey on spatio-temporal visualization research field. 
+A literature survey on spatio-temporal visualization research that surveys recent spatio-temporal visualization techniques
+that use maps or similar visualizations to display traffic related spatio-temporal data.
 [pdf](literature_Survey_Final_Version.pdf)
 ## Abstract
 
